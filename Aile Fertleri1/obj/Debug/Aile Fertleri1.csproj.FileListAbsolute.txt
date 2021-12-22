@@ -1,0 +1,10 @@
+H:\Derslerim\VB\Aile Fertleri1\Aile Fertleri1\bin\Debug\Aile Fertleri1.exe.config
+H:\Derslerim\VB\Aile Fertleri1\Aile Fertleri1\bin\Debug\Aile Fertleri1.exe
+H:\Derslerim\VB\Aile Fertleri1\Aile Fertleri1\bin\Debug\Aile Fertleri1.pdb
+H:\Derslerim\VB\Aile Fertleri1\Aile Fertleri1\obj\Debug\Aile Fertleri1.csproj.AssemblyReference.cache
+H:\Derslerim\VB\Aile Fertleri1\Aile Fertleri1\obj\Debug\Aile_Fertleri1.Properties.Resources.resources
+H:\Derslerim\VB\Aile Fertleri1\Aile Fertleri1\obj\Debug\Aile Fertleri1.csproj.GenerateResource.cache
+H:\Derslerim\VB\Aile Fertleri1\Aile Fertleri1\obj\Debug\Aile Fertleri1.csproj.CoreCompileInputs.cache
+H:\Derslerim\VB\Aile Fertleri1\Aile Fertleri1\obj\Debug\Aile Fertleri1.exe
+H:\Derslerim\VB\Aile Fertleri1\Aile Fertleri1\obj\Debug\Aile Fertleri1.pdb
+H:\Derslerim\VB\Aile Fertleri1\Aile Fertleri1\obj\Debug\Aile_Fertleri1.Form1.resources
